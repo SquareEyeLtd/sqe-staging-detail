@@ -1,0 +1,16 @@
+{
+  "name": "SQE Staging",
+  "slug": "sqe-staging-mu-plugin",
+  "version": "1.2.0",
+  "download_url": "https://example.com/my-mu-plugin.zip",
+  "homepage": "https://example.com",
+  "requires": "6.7",
+  "tested": "6.7",
+  "requires_php": "8.1",
+  "author": "Tom Bangham",
+  "author_homepage": "https://squareeye.com/",
+  "sections": {
+    "description": "This plugin disables all emails; they can be re-enabled on an options page, in case emails are required for development.",
+    "changelog": "Version 1.2.0:\n* Added a new feature.\n* Fixed a bug."
+  }
+}
